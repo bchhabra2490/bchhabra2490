@@ -43,7 +43,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bchhabra2490&show_icons=true&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bchhabra2490&layout=compact&hide_border=true" />
 </p>
 
@@ -54,8 +53,3 @@
 - Twitter: https://x.com/bchhabra2490
 - LinkedIn: https://www.linkedin.com/in/bchhabra2490/
 - Personal site: https://www.thebharatbot.com/
-
----
-
-> *"Strong opinions, loosely held — constantly refined through curiosity."*
-
