@@ -10,7 +10,7 @@
 
 - Experimenting with **agent-based market simulations**
 - Learning **math for quantitative modeling**
-- Building **3D interactive experiences** with Three.js
+- Learning how to build apps/frameworks which I use daily like Github, React etc.
 - Designing simple, strong **product systems**
 
 ---
