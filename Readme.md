@@ -8,19 +8,8 @@
 
 ### 🚀 What I'm Doing Now
 
-- Experimenting with **agent-based market simulations**
-- Learning **math for quantitative modeling**
-- Learning how to build apps/frameworks which I use daily like Github, React etc.
-- Designing simple, strong **product systems**
-
----
-
-### 🧠 Interests
-
-- Market microstructure & pricing models  
-- Distributed systems & database internals  
-- Clean API design and developer ergonomics  
-- Thinking deeply about **how software should feel**
+- Creating clones of existing softwares to understand their working.
+- Creating tooling for my day to day life.
 
 ---
 
