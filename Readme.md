@@ -27,13 +27,6 @@
 **Other**  
 `Docker` · `Inngest` · `Vercel` · `AWS` (basics)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bchhabra2490&layout=compact&hide_border=true" />
-</p>
 
 ---
 
