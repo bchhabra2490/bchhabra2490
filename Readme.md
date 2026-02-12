@@ -15,7 +15,7 @@
 
 ### Projects I made
 
-- [https://github.com/bchhabra2490/chess-tic-tac-toe](Chess Tic Tac Toe) - Play [here](https://chess-tic-tac-toe-production.up.railway.app/)
+- [Chess Tic Tac Toe](https://github.com/bchhabra2490/chess-tic-tac-toe) - Play [here](https://chess-tic-tac-toe-production.up.railway.app/)
 - [Bots for Chess Tic Tac Toe](https://github.com/bchhabra2490/chess-tic-tac-toe-bots) - Experimenting with MCTS, Minimax and DQN bots playing chess tic tac toe.
 - 
 
