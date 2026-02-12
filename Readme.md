@@ -20,6 +20,7 @@
 - [YT Transcript to audio summary](https://github.com/bchhabra2490/yt-transcript-to-audio) - Using OpenAI TTS
 - [WhatsApp Bot](https://github.com/bchhabra2490/whatsapp-bot) that maintains the receipts and record data which can be fetched later.
 - [WebScraper Multi Agent](https://github.com/bchhabra2490/webscraper-multi-agent) - use evaluator and scraper agents to fetch data from sites. Evaluator guides the scraper on how to get data and maintains the past tool calls for every domain in sqlite
+- [RandBeacon](https://github.com/bchhabra2490/randbeacon) - Using volatility in cryptomarkets as source of entropy.
 
 ### 🛠️ Tech Stack
 
