@@ -21,6 +21,7 @@
 - [WhatsApp Bot](https://github.com/bchhabra2490/whatsapp-bot) that maintains the receipts and record data which can be fetched later.
 - [WebScraper Multi Agent](https://github.com/bchhabra2490/webscraper-multi-agent) - use evaluator and scraper agents to fetch data from sites. Evaluator guides the scraper on how to get data and maintains the past tool calls for every domain in sqlite
 - [RandBeacon](https://github.com/bchhabra2490/randbeacon) - Using volatility in cryptomarkets as source of entropy.
+- [FilterResumes](https://www.filterresumes.com/) using LLMs to answer fixed questions for every resume received for a job and score them. Uses WebSearch tool to validate the experiences mentioned in the resume. 
 
 ### 🛠️ Tech Stack
 
