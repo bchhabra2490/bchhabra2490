@@ -14,7 +14,7 @@
 ---
 
 ### Projects I made
-
+- [Logs Analyzer using RLM](https://github.com/bchhabra2490/logs-analyzer-rlm) - WIP
 - [Chess Tic Tac Toe](https://github.com/bchhabra2490/chess-tic-tac-toe) - Play [here](https://chess-tic-tac-toe-production.up.railway.app/)
 - [Bots for Chess Tic Tac Toe](https://github.com/bchhabra2490/chess-tic-tac-toe-bots) - Experimenting with MCTS, Minimax and DQN bots playing chess tic tac toe.
 - [YT Transcript to audio summary](https://github.com/bchhabra2490/yt-transcript-to-audio) - Using OpenAI TTS
