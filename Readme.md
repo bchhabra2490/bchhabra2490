@@ -44,4 +44,4 @@
 
 - Twitter: https://x.com/bchhabra2490
 - LinkedIn: https://www.linkedin.com/in/bchhabra2490/
-- Personal site: https://www.thebharatbot.com/
+- Personal site: https://www.tbharatc.me/
